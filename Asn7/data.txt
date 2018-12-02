@@ -1,0 +1,74 @@
+N     Almond.nut                                   41  
+N     Apple.pie                                  3227
+N     Banana.split                               6334
+M     Almond.nut                                 729
+M     Banana.split                               9000
+C     Apple.pie    Pie.apple
+R     Almond.nut   Nut.almond
+N     Crisp.bacon                                1879
+D     Apple.pie
+M     Crisp.bacon                                752
+N     Bubble.gum                                   0
+N     Candy.bar                                  513
+N     Small.bite                                  71
+M     Banana.split                              7999
+M     Small.bite                                   0
+M     Nut.almond                                 728
+N     Kumquat.what                                  0
+M     Kumquat.what                               2100
+M     Apple.pie                                  4837
+N     Blueberry.pie                              6020
+M     Apple.pie                                  6992
+D     Almond.nut
+N     Cantelope                                  1929
+M     Banana.split                               4871
+R     Boysenberry.jam   Boysenberry.jelly
+D     Boysenberry.jam
+N     Cashew.nut                                 2484
+M     Blueberry.pie                              5420
+M     Cantelope                                  3939
+M     Cashew.nut                                 4468
+N     Coconut.milk                               1238
+N     Date                                       8878
+C     Potato.baked      Yam.baked
+M     Blueberry.pie                              4820
+N     Fig                                        6482
+C     Cantelope   Muskmelon
+N     Filbert.nut                                3984
+M     Fig                                        6105
+M     Date                                       9193
+D     Kumquat.what
+M     Blueberry.pie                              4220
+M     Filbert.nut                                2070
+M     Fig                                        6670
+N     Kumquat.what                                  1
+M     Cantelope                                  7959
+M     Filbert.nut                                3411
+N     Grape.jelly                                5705
+C     Filbert.nut       Hazelnut.nut
+N     Peanut.butter                              6587
+D     Fig
+N     Pear                                       9961
+M     Cantelope                                  9969
+D     Coconut.milk
+N     Pecan.nut                                   491
+D     Onion.Soup
+N     Plum.pudding                               2995
+R     Plum.pudding      Plum.cake
+N     Pumpkin.pie                                1702
+M     Pecan.nut                                  892
+N     Raspberry.jam                              4827
+C     Cantelope         Muskmelon
+N     Lemon.tart                                    0
+M     Peanut.butter                              8233
+N     Strawberry.jam                             5436
+M     Broccoli.veg                               5682
+N     Jello.mold                                    0     
+N     Tangerine                                  1671
+M     Tangerine                                  1011
+R     Pear              Pear.sauce  
+N     Walnut.nut                                 4364
+M     Tangerine                                  4100
+N     Watermelon.seed                            3902
+?
+         
