@@ -5,4 +5,4 @@
 - Written in c and c++
 ## Note
 - I am currently the TA for section 2
-- These assienments are here to guide/help (do not copy this code and turn it in)
+- These assignments are here to guide/help (do not copy this code and turn it in)
