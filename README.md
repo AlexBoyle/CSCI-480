@@ -4,5 +4,5 @@
 - These programs are mostly to entirly correct
 - Written in c and c++
 ## Note
-- I am currently the TA for section 2
+- I am currently (Fall 2019) the TA for section 2
 - These assignments are here to guide/help (do not copy this code and turn it in)
